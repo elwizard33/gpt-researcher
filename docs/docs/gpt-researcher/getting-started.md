@@ -34,7 +34,7 @@ $ export TAVILY_API_KEY={Your Tavily API Key here}
 $ uvicorn main:app --reload
 ```
 
-> **Step 5** - Go to http://localhost:8000 on any browser and enjoy researching!
+> **Step 5** - Go to http://localhost:6334 on any browser and enjoy researching!
 
 ## Try it with Docker
 
@@ -55,6 +55,6 @@ $ export TAVILY_API_KEY={Your Tavily API Key here}
 $ docker-compose up
 ```
 
-> **Step 4** - Go to http://localhost:8000 on any browser and enjoy researching!
+> **Step 4** - Go to http://localhost:6334 on any browser and enjoy researching!
 
 ## Try it with PIP Pacakge

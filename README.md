@@ -109,7 +109,7 @@ uvicorn main:app --reload
 ```
 <br />
 
-> **Step 5** - Go to http://localhost:8000 on any browser and enjoy researching!
+> **Step 5** - Go to http://localhost:6334 on any browser and enjoy researching!
 
 To learn how to get started with Docker or to learn more about the features and services check out the [documentation](https://docs.tavily.com) page.
 

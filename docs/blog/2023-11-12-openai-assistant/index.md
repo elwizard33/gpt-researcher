@@ -155,7 +155,7 @@ Please include relevant url sources in the end of your answers.
 
 # Function to perform a Tavily search
 def tavily_search(query):
-    search_result = tavily_client.get_search_context(query, search_depth="advanced", max_tokens=8000)
+    search_result = tavily_client.get_search_context(query, search_depth="advanced", max_tokens=6334)
     return search_result
 
 # Function to wait for a run to complete
